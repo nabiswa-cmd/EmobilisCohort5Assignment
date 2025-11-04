@@ -1,8 +1,44 @@
 /* this are styles for the homepage of the project */
 .subtitle {
     text-decoration: underline;
-    
+
+}
+.projectframe {
+    background-color: #FFFFFF;
+    width: 200px;
+    height: 380px;
+    border-radius:50px ;
+    padding: 20px;
+    p {
+        width: 100px;
+    }
+    margin-left: 20px;
+    margin-top: 200px;
+}
+.gasImage{
+    width: 100px;
+    height: auto;
+    size: 500px;
+}
+.projectTitle{
+    align-content: center;
+}
+.viewButton {
+    background-color: black;
+    color: #FFFFFF;
+    height: 30px;
+    width: 200px;
+}
+.viewButton:hover {
+     background-color: #FFFFFF;
+    color: black;
+    height: 30px;
+    width: 200px;
+    text-decoration: underline;
+    transform: rotateX('90');
+    transition-duration: 2;
+    margin-top: 10px;
 }
 .left-main {
-
+    display: flex;
 }
