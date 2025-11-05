@@ -1,0 +1,18 @@
+.circle {
+    background-color: #F5F5F5;
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    padding-bottom: 0px;
+    padding-right: 0;
+}
+.discription{
+    width: 200px;
+}
+.main {
+    display: flex;
+}
+.right {
+    margin-left: 50px;
+}
