@@ -12,6 +12,7 @@
 }
 .main {
     display: flex;
+    margin-left: 100px;
 }
 .right {
     margin-left: 50px;
